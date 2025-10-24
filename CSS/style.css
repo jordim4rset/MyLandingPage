@@ -52,7 +52,7 @@ nav img {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     gap: 8px;
-
+    background-color: rgb(24, 22, 22);
     background-image: url(/IMG/fondo.png);
     width: auto;
     color: white;
